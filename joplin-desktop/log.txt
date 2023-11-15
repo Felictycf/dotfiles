@@ -1,0 +1,1853 @@
+2023-03-24 04:54:46: App: "Profile directory: /Users/felicity/.config/joplin-desktop"
+2023-03-24 04:54:46: App: "Root profile directory: /Users/felicity/.config/joplin-desktop"
+2023-03-24 04:54:46: "Database was open successfully"
+2023-03-24 04:54:46: "Checking for database schema update..."
+2023-03-24 04:54:46: "Current database version", "null"
+2023-03-24 04:54:46: "Upgrading database from version 0"
+2023-03-24 04:54:46: "Converting database to version 1"
+2023-03-24 04:54:46: "Converting database to version 2"
+2023-03-24 04:54:46: "Converting database to version 3"
+2023-03-24 04:54:46: "Converting database to version 4"
+2023-03-24 04:54:46: "Converting database to version 5"
+2023-03-24 04:54:46: "Converting database to version 6"
+2023-03-24 04:54:46: "Converting database to version 7"
+2023-03-24 04:54:46: "Converting database to version 8"
+2023-03-24 04:54:46: "Converting database to version 9"
+2023-03-24 04:54:46: "Converting database to version 10"
+2023-03-24 04:54:46: "Converting database to version 11"
+2023-03-24 04:54:46: "Converting database to version 12"
+2023-03-24 04:54:46: "Converting database to version 13"
+2023-03-24 04:54:46: "Converting database to version 14"
+2023-03-24 04:54:46: "Converting database to version 15"
+2023-03-24 04:54:46: "Converting database to version 16"
+2023-03-24 04:54:46: "Converting database to version 17"
+2023-03-24 04:54:46: "Converting database to version 18"
+2023-03-24 04:54:46: "Converting database to version 19"
+2023-03-24 04:54:46: "Converting database to version 20"
+2023-03-24 04:54:46: "Converting database to version 21"
+2023-03-24 04:54:46: "Converting database to version 22"
+2023-03-24 04:54:46: "Converting database to version 23"
+2023-03-24 04:54:46: "Converting database to version 24"
+2023-03-24 04:54:46: "Converting database to version 25"
+2023-03-24 04:54:46: "Converting database to version 26"
+2023-03-24 04:54:46: "Converting database to version 27"
+2023-03-24 04:54:46: "Converting database to version 28"
+2023-03-24 04:54:46: "Converting database to version 29"
+2023-03-24 04:54:46: "Converting database to version 30"
+2023-03-24 04:54:46: "Converting database to version 31"
+2023-03-24 04:54:46: "Converting database to version 32"
+2023-03-24 04:54:46: "Converting database to version 33"
+2023-03-24 04:54:46: "Converting database to version 34"
+2023-03-24 04:54:46: "Migration failed with fallback and will not be repeated - saving version number"
+2023-03-24 04:54:46: "Converting database to version 35"
+2023-03-24 04:54:46: "Converting database to version 36"
+2023-03-24 04:54:46: "Converting database to version 37"
+2023-03-24 04:54:46: "Converting database to version 38"
+2023-03-24 04:54:46: "Converting database to version 39"
+2023-03-24 04:54:46: "Converting database to version 40"
+2023-03-24 04:54:46: "Converting database to version 41"
+2023-03-24 04:54:46: "New version: 41. Previously recorded version: 0"
+2023-03-24 04:54:46: "Initializing tables..."
+2023-03-24 04:54:46: "KeychainService: checking if keychain supported"
+2023-03-24 04:54:47: "KeychainService: tried to set and get password. Result was:", "mytest"
+2023-03-24 04:54:47: e2ee/utils: "Master password is not set - trying to get it from the active master key..."
+2023-03-24 04:54:47: handleSyncStartupOperation: "Processing operation:", "0"
+2023-03-24 04:54:47: App: "Client ID: c109cdc9a64743b7b9b1304df0c64b8e"
+2023-03-24 04:54:47: "First start: detected locale as en_GB"
+2023-03-24 04:54:47: models/Setting: "Skipping all default migrations..."
+2023-03-24 04:54:47: e2ee/utils: "Trying to load 0 master keys..."
+2023-03-24 04:54:47: e2ee/utils: "Loaded master keys: 0"
+2023-03-24 04:54:47: "ResourceFetcher: Auto-add resources: Mode: always"
+2023-03-24 04:54:47: "ResourceFetcher: Auto-added resources: 0"
+2023-03-24 04:54:47: "Running migration: 20"
+2023-03-24 04:54:47: "Running migration: 27"
+2023-03-24 04:54:47: "Running migration: 33"
+2023-03-24 04:54:47: "SearchEngine: Updating FTS table..."
+2023-03-24 04:54:47: "Running migration: 35"
+2023-03-24 04:54:47: "SearchEngine: Updating FTS table..."
+2023-03-24 04:54:47: App: ""syncInfoCache" was changed - setting up encryption related code"
+2023-03-24 04:54:47: e2ee/utils: "Trying to load 0 master keys..."
+2023-03-24 04:54:47: e2ee/utils: "Loaded master keys: 0"
+2023-03-24 04:54:47: App: ""syncInfoCache" was changed - setting up encryption related code"
+2023-03-24 04:54:47: e2ee/utils: "Trying to load 0 master keys..."
+2023-03-24 04:54:47: e2ee/utils: "Loaded master keys: 0"
+2023-03-24 04:54:47: App: ""syncInfoCache" was changed - setting up encryption related code"
+2023-03-24 04:54:47: e2ee/utils: "Trying to load 0 master keys..."
+2023-03-24 04:54:47: e2ee/utils: "Loaded master keys: 0"
+2023-03-24 04:54:47: "app.start: doing regular boot"
+2023-03-24 04:54:47: App: ""syncInfoCache" was changed - setting up encryption related code"
+2023-03-24 04:54:47: e2ee/utils: "Trying to load 0 master keys..."
+2023-03-24 04:54:47: e2ee/utils: "Loaded master keys: 0"
+2023-03-24 04:54:47: App: ""syncInfoCache" was changed - setting up encryption related code"
+2023-03-24 04:54:47: e2ee/utils: "Trying to load 0 master keys..."
+2023-03-24 04:54:47: e2ee/utils: "Loaded master keys: 0"
+2023-03-24 04:54:47: App: ""syncInfoCache" was changed - setting up encryption related code"
+2023-03-24 04:54:47: e2ee/utils: "Trying to load 0 master keys..."
+2023-03-24 04:54:47: e2ee/utils: "Loaded master keys: 0"
+2023-03-24 04:54:47: RevisionService: "runInBackground: Starting background service with revision collection interval 600000"
+2023-03-24 04:54:47: defaultPluginsUtils: "Could not find default plugins' directory: /Applications/Joplin.app/Contents/Resources/build/defaultPlugins - skipping installation."
+2023-03-24 04:54:47: SpellCheckerServiceDriverNative: "Set effective languages to "en-US""
+2023-03-24 04:54:47: SpellCheckerServiceDriverNative: "Set effective languages to "en-US""
+2023-03-24 04:54:49: "DecryptionWorker: cannot start because no master key is currently loaded."
+2023-03-24 04:54:49: "Preparing scheduled sync"
+2023-03-24 04:54:49: "Sync cancelled - no sync target is selected."
+2023-03-24 04:54:49: "Updating all notifications..."
+2023-03-24 04:54:49: "Garbage collecting alarms..."
+2023-03-24 04:54:50: "DecryptionWorker: cannot start because no master key is currently loaded."
+2023-03-24 04:54:51: RevisionService: "maintenance: Starting..."
+2023-03-24 04:54:51: RevisionService: "maintenance: Service is enabled"
+2023-03-24 04:54:52: checkForUpdates: "Starting..."
+2023-03-24 04:54:52: checkForUpdates: "Checking with options {"includePreReleases":false}"
+2023-03-24 04:54:53: RevisionService: "collectRevisions: Created revisions for 0 notes"
+2023-03-24 04:54:55: checkForUpdates: "Error: Cannot get latest release info: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+Error: Cannot get latest release info: <html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
+
+    at /Applications/Joplin.app/Contents/Resources/app.asar/checkForUpdates.js:43:19
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/checkForUpdates.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 04:54:55: checkForUpdates: "Done."
+2023-03-24 04:54:55: RevisionService: "maintenance: Done in 3548ms"
+2023-03-24 04:54:57: "SearchEngine: Updating FTS table..."
+2023-03-24 04:54:58: "SearchEngine: Updated FTS table in 77ms. Inserted: 5. Deleted: 0"
+2023-03-24 04:55:00: "Saving updated OneDrive auth."
+2023-03-24 04:55:17: "ResourceService::indexNoteResources: Start"
+2023-03-24 04:55:17: "ResourceService::indexNoteResources: Completed"
+2023-03-24 04:55:17: "ResourceService::deleteOrphanResources:", "[]"
+2023-03-24 04:55:21: "Preparing scheduled sync"
+2023-03-24 04:55:21: "Synchroniser is missing credentials - manual sync required to authenticate."
+2023-03-24 04:55:36: "Saving updated OneDrive auth."
+2023-03-24 04:55:37: "Saving updated OneDrive auth."
+2023-03-24 04:55:37: "Preparing scheduled sync"
+2023-03-24 04:55:40: OneDriveApi: "Got error below - retrying (0)..."
+2023-03-24 04:55:40: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 04:55:47: OneDriveApi: "Got error below - retrying (1)..."
+2023-03-24 04:55:47: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 04:55:59: OneDriveApi: "Got error below - retrying (2)..."
+2023-03-24 04:55:59: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 04:56:16: OneDriveApi: "Got error below - retrying (3)..."
+2023-03-24 04:56:16: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 04:56:39: OneDriveApi: "Got error below - retrying (4)..."
+2023-03-24 04:56:39: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 04:57:04: "Could not run background sync:"
+2023-03-24 04:57:04: "Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:376:23)
+    at Generator.throw (<anonymous>)
+    at rejected (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:6:65)"
+2023-03-24 05:02:04: "Running background sync on timer..."
+2023-03-24 05:02:04: "Preparing scheduled sync"
+2023-03-24 05:02:06: OneDriveApi: "Got error below - retrying (0)..."
+2023-03-24 05:02:06: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:02:14: OneDriveApi: "Got error below - retrying (1)..."
+2023-03-24 05:02:14: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:02:26: OneDriveApi: "Got error below - retrying (2)..."
+2023-03-24 05:02:26: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:02:43: OneDriveApi: "Got error below - retrying (3)..."
+2023-03-24 05:02:43: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:03:05: OneDriveApi: "Got error below - retrying (4)..."
+2023-03-24 05:03:05: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:03:30: "Could not run background sync:"
+2023-03-24 05:03:30: "Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:376:23)
+    at Generator.throw (<anonymous>)
+    at rejected (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:6:65)"
+2023-03-24 05:04:47: RevisionService: "maintenance: Starting..."
+2023-03-24 05:04:47: RevisionService: "maintenance: Service is enabled"
+2023-03-24 05:04:47: RevisionService: "collectRevisions: Created revisions for 0 notes"
+2023-03-24 05:04:47: RevisionService: "maintenance: Done in 144ms"
+2023-03-24 05:08:30: "Running background sync on timer..."
+2023-03-24 05:08:30: "Preparing scheduled sync"
+2023-03-24 05:08:33: OneDriveApi: "Got error below - retrying (0)..."
+2023-03-24 05:08:33: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:08:40: OneDriveApi: "Got error below - retrying (1)..."
+2023-03-24 05:08:40: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:08:52: OneDriveApi: "Got error below - retrying (2)..."
+2023-03-24 05:08:52: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:09:10: OneDriveApi: "Got error below - retrying (3)..."
+2023-03-24 05:09:10: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:09:32: OneDriveApi: "Got error below - retrying (4)..."
+2023-03-24 05:09:32: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:09:57: "Could not run background sync:"
+2023-03-24 05:09:57: "Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:376:23)
+    at Generator.throw (<anonymous>)
+    at rejected (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:6:65)"
+2023-03-24 05:18:50: RevisionService: "maintenance: Starting..."
+2023-03-24 05:18:50: RevisionService: "maintenance: Service is enabled"
+2023-03-24 05:18:50: "Running background sync on timer..."
+2023-03-24 05:18:50: "Preparing scheduled sync"
+2023-03-24 05:18:50: RevisionService: "collectRevisions: Created revisions for 0 notes"
+2023-03-24 05:18:50: RevisionService: "maintenance: Done in 162ms"
+2023-03-24 05:18:52: OneDriveApi: "Got error below - retrying (0)..."
+2023-03-24 05:18:52: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:18:59: OneDriveApi: "Got error below - retrying (1)..."
+2023-03-24 05:18:59: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:19:12: OneDriveApi: "Got error below - retrying (2)..."
+2023-03-24 05:19:12: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:19:29: OneDriveApi: "Got error below - retrying (3)..."
+2023-03-24 05:19:29: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:19:52: OneDriveApi: "Got error below - retrying (4)..."
+2023-03-24 05:19:52: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:20:17: "Could not run background sync:"
+2023-03-24 05:20:17: "Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:376:23)
+    at Generator.throw (<anonymous>)
+    at rejected (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:6:65)"
+2023-03-24 05:25:17: "Running background sync on timer..."
+2023-03-24 05:25:17: "Preparing scheduled sync"
+2023-03-24 05:25:19: OneDriveApi: "Got error below - retrying (0)..."
+2023-03-24 05:25:19: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:25:26: OneDriveApi: "Got error below - retrying (1)..."
+2023-03-24 05:25:26: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:25:38: OneDriveApi: "Got error below - retrying (2)..."
+2023-03-24 05:25:38: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:25:55: OneDriveApi: "Got error below - retrying (3)..."
+2023-03-24 05:25:55: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:26:17: OneDriveApi: "Got error below - retrying (4)..."
+2023-03-24 05:26:17: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:26:42: "Could not run background sync:"
+2023-03-24 05:26:42: "Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:376:23)
+    at Generator.throw (<anonymous>)
+    at rejected (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:6:65)"
+2023-03-24 05:28:50: RevisionService: "maintenance: Starting..."
+2023-03-24 05:28:50: RevisionService: "maintenance: Service is enabled"
+2023-03-24 05:28:50: RevisionService: "collectRevisions: Created revisions for 0 notes"
+2023-03-24 05:28:50: RevisionService: "maintenance: Done in 159ms"
+2023-03-24 05:31:42: "Running background sync on timer..."
+2023-03-24 05:31:42: "Preparing scheduled sync"
+2023-03-24 05:31:45: OneDriveApi: "Got error below - retrying (0)..."
+2023-03-24 05:31:45: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:31:52: OneDriveApi: "Got error below - retrying (1)..."
+2023-03-24 05:31:52: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:32:04: OneDriveApi: "Got error below - retrying (2)..."
+2023-03-24 05:32:04: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:32:22: OneDriveApi: "Got error below - retrying (3)..."
+2023-03-24 05:32:22: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:32:45: OneDriveApi: "Got error below - retrying (4)..."
+2023-03-24 05:32:45: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:33:10: "Could not run background sync:"
+2023-03-24 05:33:10: "Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:376:23)
+    at Generator.throw (<anonymous>)
+    at rejected (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:6:65)"
+2023-03-24 05:38:10: "Running background sync on timer..."
+2023-03-24 05:38:10: "Preparing scheduled sync"
+2023-03-24 05:38:12: OneDriveApi: "Got error below - retrying (0)..."
+2023-03-24 05:38:12: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:38:19: OneDriveApi: "Got error below - retrying (1)..."
+2023-03-24 05:38:19: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:38:31: OneDriveApi: "Got error below - retrying (2)..."
+2023-03-24 05:38:31: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:38:49: OneDriveApi: "Got error below - retrying (3)..."
+2023-03-24 05:38:49: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:38:50: RevisionService: "maintenance: Starting..."
+2023-03-24 05:38:50: RevisionService: "maintenance: Service is enabled"
+2023-03-24 05:38:50: RevisionService: "collectRevisions: Created revisions for 0 notes"
+2023-03-24 05:38:50: RevisionService: "maintenance: Done in 137ms"
+2023-03-24 05:39:11: OneDriveApi: "Got error below - retrying (4)..."
+2023-03-24 05:39:11: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:39:36: "Could not run background sync:"
+2023-03-24 05:39:36: "Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:376:23)
+    at Generator.throw (<anonymous>)
+    at rejected (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:6:65)"
+2023-03-24 05:44:36: "Running background sync on timer..."
+2023-03-24 05:44:36: "Preparing scheduled sync"
+2023-03-24 05:44:38: OneDriveApi: "Got error below - retrying (0)..."
+2023-03-24 05:44:38: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:44:45: OneDriveApi: "Got error below - retrying (1)..."
+2023-03-24 05:44:45: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:44:58: OneDriveApi: "Got error below - retrying (2)..."
+2023-03-24 05:44:58: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:45:15: OneDriveApi: "Got error below - retrying (3)..."
+2023-03-24 05:45:15: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:45:37: OneDriveApi: "Got error below - retrying (4)..."
+2023-03-24 05:45:37: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:46:02: "Could not run background sync:"
+2023-03-24 05:46:02: "Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:376:23)
+    at Generator.throw (<anonymous>)
+    at rejected (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:6:65)"
+2023-03-24 05:48:50: RevisionService: "maintenance: Starting..."
+2023-03-24 05:48:50: RevisionService: "maintenance: Service is enabled"
+2023-03-24 05:48:50: RevisionService: "collectRevisions: Created revisions for 0 notes"
+2023-03-24 05:48:50: RevisionService: "maintenance: Done in 154ms"
+2023-03-24 05:51:03: "Running background sync on timer..."
+2023-03-24 05:51:03: "Preparing scheduled sync"
+2023-03-24 05:51:05: OneDriveApi: "Got error below - retrying (0)..."
+2023-03-24 05:51:05: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:51:12: OneDriveApi: "Got error below - retrying (1)..."
+2023-03-24 05:51:12: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:51:26: OneDriveApi: "Got error below - retrying (2)..."
+2023-03-24 05:51:26: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:51:43: OneDriveApi: "Got error below - retrying (3)..."
+2023-03-24 05:51:43: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:52:06: OneDriveApi: "Got error below - retrying (4)..."
+2023-03-24 05:52:06: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:52:31: "Could not run background sync:"
+2023-03-24 05:52:31: "Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:376:23)
+    at Generator.throw (<anonymous>)
+    at rejected (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:6:65)"
+2023-03-24 05:54:47: "Garbage collecting alarms..."
+2023-03-24 05:57:31: "Running background sync on timer..."
+2023-03-24 05:57:31: "Preparing scheduled sync"
+2023-03-24 05:57:33: OneDriveApi: "Got error below - retrying (0)..."
+2023-03-24 05:57:33: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:57:40: OneDriveApi: "Got error below - retrying (1)..."
+2023-03-24 05:57:40: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:57:53: OneDriveApi: "Got error below - retrying (2)..."
+2023-03-24 05:57:53: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:58:10: OneDriveApi: "Got error below - retrying (3)..."
+2023-03-24 05:58:10: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:58:32: OneDriveApi: "Got error below - retrying (4)..."
+2023-03-24 05:58:32: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 05:58:50: RevisionService: "maintenance: Starting..."
+2023-03-24 05:58:50: RevisionService: "maintenance: Service is enabled"
+2023-03-24 05:58:50: RevisionService: "collectRevisions: Created revisions for 0 notes"
+2023-03-24 05:58:50: RevisionService: "maintenance: Done in 171ms"
+2023-03-24 05:58:57: "Could not run background sync:"
+2023-03-24 05:58:57: "Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:376:23)
+    at Generator.throw (<anonymous>)
+    at rejected (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:6:65)"
+2023-03-24 06:03:57: "Running background sync on timer..."
+2023-03-24 06:03:57: "Preparing scheduled sync"
+2023-03-24 06:03:58: OneDriveApi: "Token expired: refreshing..."
+2023-03-24 06:03:58: "Saving updated OneDrive auth."
+2023-03-24 06:04:01: OneDriveApi: "Got error below - retrying (1)..."
+2023-03-24 06:04:01: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:04:13: OneDriveApi: "Got error below - retrying (2)..."
+2023-03-24 06:04:13: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:04:31: OneDriveApi: "Got error below - retrying (3)..."
+2023-03-24 06:04:31: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:04:54: OneDriveApi: "Got error below - retrying (4)..."
+2023-03-24 06:04:54: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:05:19: "Could not run background sync:"
+2023-03-24 06:05:19: "Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:376:23)
+    at Generator.throw (<anonymous>)
+    at rejected (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:6:65)"
+2023-03-24 06:08:50: RevisionService: "maintenance: Starting..."
+2023-03-24 06:08:50: RevisionService: "maintenance: Service is enabled"
+2023-03-24 06:08:50: RevisionService: "collectRevisions: Created revisions for 0 notes"
+2023-03-24 06:08:50: RevisionService: "maintenance: Done in 146ms"
+2023-03-24 06:10:19: "Running background sync on timer..."
+2023-03-24 06:10:19: "Preparing scheduled sync"
+2023-03-24 06:10:22: OneDriveApi: "Got error below - retrying (0)..."
+2023-03-24 06:10:22: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:10:29: OneDriveApi: "Got error below - retrying (1)..."
+2023-03-24 06:10:29: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:10:41: OneDriveApi: "Got error below - retrying (2)..."
+2023-03-24 06:10:41: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:10:58: OneDriveApi: "Got error below - retrying (3)..."
+2023-03-24 06:10:58: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:11:20: OneDriveApi: "Got error below - retrying (4)..."
+2023-03-24 06:11:20: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:11:45: "Could not run background sync:"
+2023-03-24 06:11:45: "Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:376:23)
+    at Generator.throw (<anonymous>)
+    at rejected (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:6:65)"
+2023-03-24 06:16:45: "Running background sync on timer..."
+2023-03-24 06:16:45: "Preparing scheduled sync"
+2023-03-24 06:16:48: OneDriveApi: "Got error below - retrying (0)..."
+2023-03-24 06:16:48: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:16:55: OneDriveApi: "Got error below - retrying (1)..."
+2023-03-24 06:16:55: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:17:07: OneDriveApi: "Got error below - retrying (2)..."
+2023-03-24 06:17:07: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:17:25: OneDriveApi: "Got error below - retrying (3)..."
+2023-03-24 06:17:25: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:17:47: OneDriveApi: "Got error below - retrying (4)..."
+2023-03-24 06:17:47: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:18:12: "Could not run background sync:"
+2023-03-24 06:18:12: "Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:376:23)
+    at Generator.throw (<anonymous>)
+    at rejected (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:6:65)"
+2023-03-24 06:18:50: RevisionService: "maintenance: Starting..."
+2023-03-24 06:18:50: RevisionService: "maintenance: Service is enabled"
+2023-03-24 06:18:50: RevisionService: "collectRevisions: Created revisions for 0 notes"
+2023-03-24 06:18:50: RevisionService: "maintenance: Done in 146ms"
+2023-03-24 06:23:12: "Running background sync on timer..."
+2023-03-24 06:23:12: "Preparing scheduled sync"
+2023-03-24 06:23:14: OneDriveApi: "Got error below - retrying (0)..."
+2023-03-24 06:23:14: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:23:21: OneDriveApi: "Got error below - retrying (1)..."
+2023-03-24 06:23:21: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:23:33: OneDriveApi: "Got error below - retrying (2)..."
+2023-03-24 06:23:33: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:23:51: OneDriveApi: "Got error below - retrying (3)..."
+2023-03-24 06:23:51: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:24:13: OneDriveApi: "Got error below - retrying (4)..."
+2023-03-24 06:24:13: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:24:38: "Could not run background sync:"
+2023-03-24 06:24:38: "Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:376:23)
+    at Generator.throw (<anonymous>)
+    at rejected (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:6:65)"
+2023-03-24 06:28:50: RevisionService: "maintenance: Starting..."
+2023-03-24 06:28:50: RevisionService: "maintenance: Service is enabled"
+2023-03-24 06:28:50: RevisionService: "collectRevisions: Created revisions for 0 notes"
+2023-03-24 06:28:50: RevisionService: "maintenance: Done in 244ms"
+2023-03-24 06:29:38: "Running background sync on timer..."
+2023-03-24 06:29:38: "Preparing scheduled sync"
+2023-03-24 06:29:40: OneDriveApi: "Got error below - retrying (0)..."
+2023-03-24 06:29:40: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:29:48: OneDriveApi: "Got error below - retrying (1)..."
+2023-03-24 06:29:48: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:30:00: OneDriveApi: "Got error below - retrying (2)..."
+2023-03-24 06:30:00: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:30:17: OneDriveApi: "Got error below - retrying (3)..."
+2023-03-24 06:30:17: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:30:39: OneDriveApi: "Got error below - retrying (4)..."
+2023-03-24 06:30:39: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:31:04: "Could not run background sync:"
+2023-03-24 06:31:04: "Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:376:23)
+    at Generator.throw (<anonymous>)
+    at rejected (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:6:65)"
+2023-03-24 06:36:04: "Running background sync on timer..."
+2023-03-24 06:36:04: "Preparing scheduled sync"
+2023-03-24 06:36:06: OneDriveApi: "Got error below - retrying (0)..."
+2023-03-24 06:36:06: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:36:13: OneDriveApi: "Got error below - retrying (1)..."
+2023-03-24 06:36:13: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:36:26: OneDriveApi: "Got error below - retrying (2)..."
+2023-03-24 06:36:26: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:36:44: OneDriveApi: "Got error below - retrying (3)..."
+2023-03-24 06:36:44: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:37:06: OneDriveApi: "Got error below - retrying (4)..."
+2023-03-24 06:37:06: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:37:31: "Could not run background sync:"
+2023-03-24 06:37:31: "Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:376:23)
+    at Generator.throw (<anonymous>)
+    at rejected (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:6:65)"
+2023-03-24 06:38:50: RevisionService: "maintenance: Starting..."
+2023-03-24 06:38:50: RevisionService: "maintenance: Service is enabled"
+2023-03-24 06:38:50: RevisionService: "collectRevisions: Created revisions for 0 notes"
+2023-03-24 06:38:50: RevisionService: "maintenance: Done in 165ms"
+2023-03-24 06:47:14: "Running background sync on timer..."
+2023-03-24 06:47:14: "Preparing scheduled sync"
+2023-03-24 06:47:17: OneDriveApi: "Got error below - retrying (0)..."
+2023-03-24 06:47:17: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:47:24: OneDriveApi: "Got error below - retrying (1)..."
+2023-03-24 06:47:24: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:47:36: OneDriveApi: "Got error below - retrying (2)..."
+2023-03-24 06:47:36: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:47:54: OneDriveApi: "Got error below - retrying (3)..."
+2023-03-24 06:47:54: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:50:40: RevisionService: "maintenance: Starting..."
+2023-03-24 06:50:40: RevisionService: "maintenance: Service is enabled"
+2023-03-24 06:50:40: RevisionService: "collectRevisions: Created revisions for 0 notes"
+2023-03-24 06:50:40: RevisionService: "maintenance: Done in 147ms"
+2023-03-24 06:50:42: OneDriveApi: "Got error below - retrying (4)..."
+2023-03-24 06:50:42: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:51:07: "Could not run background sync:"
+2023-03-24 06:51:07: "Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:376:23)
+    at Generator.throw (<anonymous>)
+    at rejected (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:6:65)"
+2023-03-24 06:56:07: "Running background sync on timer..."
+2023-03-24 06:56:08: "Preparing scheduled sync"
+2023-03-24 06:56:09: OneDriveApi: "Got error below - retrying (0)..."
+2023-03-24 06:56:09: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:56:16: OneDriveApi: "Got error below - retrying (1)..."
+2023-03-24 06:56:16: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:56:29: OneDriveApi: "Got error below - retrying (2)..."
+2023-03-24 06:56:29: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:56:46: OneDriveApi: "Got error below - retrying (3)..."
+2023-03-24 06:56:46: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:57:08: OneDriveApi: "Got error below - retrying (4)..."
+2023-03-24 06:57:08: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 06:57:33: "Could not run background sync:"
+2023-03-24 06:57:33: "Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:376:23)
+    at Generator.throw (<anonymous>)
+    at rejected (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:6:65)"
+2023-03-24 07:00:40: RevisionService: "maintenance: Starting..."
+2023-03-24 07:00:40: RevisionService: "maintenance: Service is enabled"
+2023-03-24 07:00:40: RevisionService: "collectRevisions: Created revisions for 0 notes"
+2023-03-24 07:00:40: RevisionService: "maintenance: Done in 154ms"
+2023-03-24 07:02:33: "Running background sync on timer..."
+2023-03-24 07:02:33: "Preparing scheduled sync"
+2023-03-24 07:02:35: OneDriveApi: "Got error below - retrying (0)..."
+2023-03-24 07:02:35: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 07:02:42: OneDriveApi: "Got error below - retrying (1)..."
+2023-03-24 07:02:42: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 07:02:54: OneDriveApi: "Got error below - retrying (2)..."
+2023-03-24 07:02:54: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 07:03:11: OneDriveApi: "Got error below - retrying (3)..."
+2023-03-24 07:03:11: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 07:03:34: OneDriveApi: "Got error below - retrying (4)..."
+2023-03-24 07:03:34: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 07:03:59: "Could not run background sync:"
+2023-03-24 07:03:59: "Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:376:23)
+    at Generator.throw (<anonymous>)
+    at rejected (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:6:65)"
+2023-03-24 07:08:59: "Running background sync on timer..."
+2023-03-24 07:08:59: "Preparing scheduled sync"
+2023-03-24 07:09:01: OneDriveApi: "Got error below - retrying (0)..."
+2023-03-24 07:09:01: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 07:09:08: OneDriveApi: "Got error below - retrying (1)..."
+2023-03-24 07:09:08: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 07:09:20: OneDriveApi: "Got error below - retrying (2)..."
+2023-03-24 07:09:20: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 07:09:37: OneDriveApi: "Got error below - retrying (3)..."
+2023-03-24 07:09:37: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 07:09:59: OneDriveApi: "Got error below - retrying (4)..."
+2023-03-24 07:09:59: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 07:10:24: "Could not run background sync:"
+2023-03-24 07:10:24: "Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:376:23)
+    at Generator.throw (<anonymous>)
+    at rejected (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:6:65)"
+2023-03-24 07:10:40: RevisionService: "maintenance: Starting..."
+2023-03-24 07:10:40: RevisionService: "maintenance: Service is enabled"
+2023-03-24 07:10:40: RevisionService: "collectRevisions: Created revisions for 0 notes"
+2023-03-24 07:10:40: RevisionService: "maintenance: Done in 169ms"
+2023-03-24 07:15:24: "Running background sync on timer..."
+2023-03-24 07:15:24: "Preparing scheduled sync"
+2023-03-24 07:15:27: OneDriveApi: "Got error below - retrying (0)..."
+2023-03-24 07:15:27: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 07:15:34: OneDriveApi: "Got error below - retrying (1)..."
+2023-03-24 07:15:34: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 07:15:48: OneDriveApi: "Got error below - retrying (2)..."
+2023-03-24 07:15:48: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 07:16:05: OneDriveApi: "Got error below - retrying (3)..."
+2023-03-24 07:16:05: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 07:16:27: OneDriveApi: "Got error below - retrying (4)..."
+2023-03-24 07:16:27: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 07:16:52: "Could not run background sync:"
+2023-03-24 07:16:52: "Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:376:23)
+    at Generator.throw (<anonymous>)
+    at rejected (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:6:65)"
+2023-03-24 07:20:40: RevisionService: "maintenance: Starting..."
+2023-03-24 07:20:40: RevisionService: "maintenance: Service is enabled"
+2023-03-24 07:20:40: RevisionService: "collectRevisions: Created revisions for 0 notes"
+2023-03-24 07:20:40: RevisionService: "maintenance: Done in 158ms"
+2023-03-24 07:21:52: "Running background sync on timer..."
+2023-03-24 07:21:52: "Preparing scheduled sync"
+2023-03-24 07:21:54: OneDriveApi: "Got error below - retrying (0)..."
+2023-03-24 07:21:54: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 07:22:01: OneDriveApi: "Got error below - retrying (1)..."
+2023-03-24 07:22:01: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 07:22:13: OneDriveApi: "Got error below - retrying (2)..."
+2023-03-24 07:22:13: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 07:22:30: OneDriveApi: "Got error below - retrying (3)..."
+2023-03-24 07:22:30: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 07:22:53: OneDriveApi: "Got error below - retrying (4)..."
+2023-03-24 07:22:53: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 07:23:18: "Could not run background sync:"
+2023-03-24 07:23:18: "Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:376:23)
+    at Generator.throw (<anonymous>)
+    at rejected (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:6:65)"
+2023-03-24 07:28:18: "Running background sync on timer..."
+2023-03-24 07:28:18: "Preparing scheduled sync"
+2023-03-24 07:28:18: OneDriveApi: "Token expired: refreshing..."
+2023-03-24 07:28:19: "Saving updated OneDrive auth."
+2023-03-24 07:28:21: OneDriveApi: "Got error below - retrying (1)..."
+2023-03-24 07:28:21: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 07:28:33: OneDriveApi: "Got error below - retrying (2)..."
+2023-03-24 07:28:33: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 07:28:49: OneDriveApi: "Got error below - retrying (3)..."
+2023-03-24 07:28:49: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 07:29:11: OneDriveApi: "Got error below - retrying (4)..."
+2023-03-24 07:29:11: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 07:29:36: "Could not run background sync:"
+2023-03-24 07:29:36: "Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:376:23)
+    at Generator.throw (<anonymous>)
+    at rejected (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:6:65)"
+2023-03-24 07:30:40: RevisionService: "maintenance: Starting..."
+2023-03-24 07:30:40: RevisionService: "maintenance: Service is enabled"
+2023-03-24 07:30:40: RevisionService: "collectRevisions: Created revisions for 0 notes"
+2023-03-24 07:30:40: RevisionService: "maintenance: Done in 142ms"
+2023-03-24 07:34:36: "Running background sync on timer..."
+2023-03-24 07:34:36: "Preparing scheduled sync"
+2023-03-24 07:34:38: OneDriveApi: "Got error below - retrying (0)..."
+2023-03-24 07:34:38: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 07:34:46: OneDriveApi: "Got error below - retrying (1)..."
+2023-03-24 07:34:46: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 07:34:57: OneDriveApi: "Got error below - retrying (2)..."
+2023-03-24 07:34:57: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 07:35:14: OneDriveApi: "Got error below - retrying (3)..."
+2023-03-24 07:35:14: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 07:35:36: OneDriveApi: "Got error below - retrying (4)..."
+2023-03-24 07:35:36: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 07:36:01: "Could not run background sync:"
+2023-03-24 07:36:01: "Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:376:23)
+    at Generator.throw (<anonymous>)
+    at rejected (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:6:65)"
+2023-03-24 07:40:40: RevisionService: "maintenance: Starting..."
+2023-03-24 07:40:40: RevisionService: "maintenance: Service is enabled"
+2023-03-24 07:40:40: RevisionService: "collectRevisions: Created revisions for 0 notes"
+2023-03-24 07:40:40: RevisionService: "maintenance: Done in 176ms"
+2023-03-24 07:41:01: "Running background sync on timer..."
+2023-03-24 07:41:01: "Preparing scheduled sync"
+2023-03-24 07:41:04: OneDriveApi: "Got error below - retrying (0)..."
+2023-03-24 07:41:04: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 07:41:11: OneDriveApi: "Got error below - retrying (1)..."
+2023-03-24 07:41:11: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 07:41:23: OneDriveApi: "Got error below - retrying (2)..."
+2023-03-24 07:41:23: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 07:41:40: OneDriveApi: "Got error below - retrying (3)..."
+2023-03-24 07:41:40: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 07:42:01: OneDriveApi: "Got error below - retrying (4)..."
+2023-03-24 07:42:01: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 07:42:26: "Could not run background sync:"
+2023-03-24 07:42:26: "Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:376:23)
+    at Generator.throw (<anonymous>)
+    at rejected (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:6:65)"
+2023-03-24 08:26:01: "Running background sync on timer..."
+2023-03-24 08:26:01: "Preparing scheduled sync"
+2023-03-24 08:26:02: RevisionService: "maintenance: Starting..."
+2023-03-24 08:26:02: RevisionService: "maintenance: Service is enabled"
+2023-03-24 08:26:02: RevisionService: "collectRevisions: Created revisions for 0 notes"
+2023-03-24 08:26:02: RevisionService: "maintenance: Done in 116ms"
+2023-03-24 08:26:04: OneDriveApi: "Got error below - retrying (0)..."
+2023-03-24 08:26:04: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 08:41:12: "Running background sync on timer..."
+2023-03-24 08:41:12: "Preparing scheduled sync"
+2023-03-24 08:41:12: RevisionService: "maintenance: Starting..."
+2023-03-24 08:41:12: RevisionService: "maintenance: Service is enabled"
+2023-03-24 08:41:12: RevisionService: "collectRevisions: Created revisions for 0 notes"
+2023-03-24 08:41:12: RevisionService: "maintenance: Done in 116ms"
+2023-03-24 08:41:13: OneDriveApi: "Got error below - retrying (1)..."
+2023-03-24 08:41:13: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 08:57:02: "Running background sync on timer..."
+2023-03-24 08:57:02: "Preparing scheduled sync"
+2023-03-24 08:57:02: RevisionService: "maintenance: Starting..."
+2023-03-24 08:57:02: RevisionService: "maintenance: Service is enabled"
+2023-03-24 08:57:02: "ResourceService::indexNoteResources: Start"
+2023-03-24 08:57:03: RevisionService: "collectRevisions: Created revisions for 0 notes"
+2023-03-24 08:57:03: RevisionService: "maintenance: Done in 136ms"
+2023-03-24 08:57:03: "ResourceService::indexNoteResources: Completed"
+2023-03-24 08:57:03: "ResourceService::deleteOrphanResources:", "[]"
+2023-03-24 08:57:03: OneDriveApi: "Token expired: refreshing..."
+2023-03-24 08:57:04: "Saving updated OneDrive auth."
+2023-03-24 08:57:06: OneDriveApi: "Got error below - retrying (3)..."
+2023-03-24 08:57:06: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 09:13:28: "Running background sync on timer..."
+2023-03-24 09:13:28: "Preparing scheduled sync"
+2023-03-24 09:13:28: RevisionService: "maintenance: Starting..."
+2023-03-24 09:13:28: RevisionService: "maintenance: Service is enabled"
+2023-03-24 09:13:29: RevisionService: "collectRevisions: Created revisions for 0 notes"
+2023-03-24 09:13:29: RevisionService: "maintenance: Done in 192ms"
+2023-03-24 09:13:31: OneDriveApi: "Got error below - retrying (4)..."
+2023-03-24 09:13:31: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 09:28:40: "Could not run background sync:"
+2023-03-24 09:28:40: "Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:376:23)
+    at Generator.throw (<anonymous>)
+    at rejected (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:6:65)
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at process.processTimers (node:internal/timers:499:9)"
+2023-03-24 09:28:40: RevisionService: "maintenance: Starting..."
+2023-03-24 09:28:40: RevisionService: "maintenance: Service is enabled"
+2023-03-24 09:28:41: RevisionService: "collectRevisions: Created revisions for 0 notes"
+2023-03-24 09:28:41: RevisionService: "maintenance: Done in 180ms"
+2023-03-24 09:28:41: "Could not run background sync:"
+2023-03-24 09:28:41: "Error: Could not initialise synchroniser
+Error: Could not initialise synchroniser
+    at Timeout.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/BaseSyncTarget.js:109:36)
+    at listOnTimeout (node:internal/timers:559:17)
+    at process.processTimers (node:internal/timers:502:7)"
+2023-03-24 09:28:41: "Could not run background sync:"
+2023-03-24 09:28:41: "Error: Could not initialise synchroniser
+Error: Could not initialise synchroniser
+    at Timeout.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/BaseSyncTarget.js:109:36)
+    at listOnTimeout (node:internal/timers:559:17)
+    at process.processTimers (node:internal/timers:502:7)"
+2023-03-24 09:28:41: "Could not run background sync:"
+2023-03-24 09:28:41: "Error: Could not initialise synchroniser
+Error: Could not initialise synchroniser
+    at Timeout.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/BaseSyncTarget.js:109:36)
+    at listOnTimeout (node:internal/timers:559:17)
+    at process.processTimers (node:internal/timers:502:7)"
+2023-03-24 13:38:55: "Running background sync on timer..."
+2023-03-24 13:38:55: "Preparing scheduled sync"
+2023-03-24 13:38:55: RevisionService: "maintenance: Starting..."
+2023-03-24 13:38:55: RevisionService: "maintenance: Service is enabled"
+2023-03-24 13:38:55: "ResourceService::indexNoteResources: Start"
+2023-03-24 13:38:55: RevisionService: "collectRevisions: Created revisions for 0 notes"
+2023-03-24 13:38:55: RevisionService: "maintenance: Done in 121ms"
+2023-03-24 13:38:55: "ResourceService::indexNoteResources: Completed"
+2023-03-24 13:38:55: "ResourceService::deleteOrphanResources:", "[]"
+2023-03-24 13:38:57: OneDriveApi: "Token expired: refreshing..."
+2023-03-24 13:38:57: "Saving updated OneDrive auth."
+2023-03-24 13:39:00: OneDriveApi: "Got error below - retrying (1)..."
+2023-03-24 13:39:00: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 13:39:12: OneDriveApi: "Got error below - retrying (2)..."
+2023-03-24 13:39:12: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 13:39:29: OneDriveApi: "Got error below - retrying (3)..."
+2023-03-24 13:39:29: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 13:39:51: OneDriveApi: "Got error below - retrying (4)..."
+2023-03-24 13:39:51: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 13:40:16: "Could not run background sync:"
+2023-03-24 13:40:16: "Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:376:23)
+    at Generator.throw (<anonymous>)
+    at rejected (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:6:65)"
+2023-03-24 13:45:16: "Running background sync on timer..."
+2023-03-24 13:45:16: "Preparing scheduled sync"
+2023-03-24 13:45:18: OneDriveApi: "Got error below - retrying (0)..."
+2023-03-24 13:45:18: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 13:45:25: OneDriveApi: "Got error below - retrying (1)..."
+2023-03-24 13:45:25: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 13:45:37: OneDriveApi: "Got error below - retrying (2)..."
+2023-03-24 13:45:37: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 13:45:54: OneDriveApi: "Got error below - retrying (3)..."
+2023-03-24 13:45:54: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 13:46:16: OneDriveApi: "Got error below - retrying (4)..."
+2023-03-24 13:46:16: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 13:46:41: "Could not run background sync:"
+2023-03-24 13:46:41: "Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:376:23)
+    at Generator.throw (<anonymous>)
+    at rejected (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:6:65)"
+2023-03-24 13:48:55: RevisionService: "maintenance: Starting..."
+2023-03-24 13:48:55: RevisionService: "maintenance: Service is enabled"
+2023-03-24 13:48:55: RevisionService: "collectRevisions: Created revisions for 0 notes"
+2023-03-24 13:48:55: RevisionService: "maintenance: Done in 158ms"
+2023-03-24 13:51:41: "Running background sync on timer..."
+2023-03-24 13:51:41: "Preparing scheduled sync"
+2023-03-24 13:51:43: OneDriveApi: "Got error below - retrying (0)..."
+2023-03-24 13:51:43: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 13:51:50: OneDriveApi: "Got error below - retrying (1)..."
+2023-03-24 13:51:50: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 13:52:02: OneDriveApi: "Got error below - retrying (2)..."
+2023-03-24 13:52:02: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 13:52:19: OneDriveApi: "Got error below - retrying (3)..."
+2023-03-24 13:52:19: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 13:52:42: OneDriveApi: "Got error below - retrying (4)..."
+2023-03-24 13:52:42: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 13:53:07: "Could not run background sync:"
+2023-03-24 13:53:07: "Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:376:23)
+    at Generator.throw (<anonymous>)
+    at rejected (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:6:65)"
+2023-03-24 13:58:07: "Running background sync on timer..."
+2023-03-24 13:58:07: "Preparing scheduled sync"
+2023-03-24 13:58:09: OneDriveApi: "Got error below - retrying (0)..."
+2023-03-24 13:58:09: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 13:58:16: OneDriveApi: "Got error below - retrying (1)..."
+2023-03-24 13:58:16: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 13:58:29: OneDriveApi: "Got error below - retrying (2)..."
+2023-03-24 13:58:29: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 13:58:46: OneDriveApi: "Got error below - retrying (3)..."
+2023-03-24 13:58:46: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 13:58:55: RevisionService: "maintenance: Starting..."
+2023-03-24 13:58:55: RevisionService: "maintenance: Service is enabled"
+2023-03-24 13:58:55: RevisionService: "collectRevisions: Created revisions for 0 notes"
+2023-03-24 13:58:55: RevisionService: "maintenance: Done in 126ms"
+2023-03-24 13:59:08: OneDriveApi: "Got error below - retrying (4)..."
+2023-03-24 13:59:08: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 13:59:33: "Could not run background sync:"
+2023-03-24 13:59:33: "Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+Error: Could not retrieve account details (drive ID, Account type. Error code: undefined, Error message: Could not execute request after multiple attempts: GET https://graph.microsoft.com/v1.0/me/drive
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:376:23)
+    at Generator.throw (<anonymous>)
+    at rejected (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:6:65)"
+2023-03-24 14:04:33: "Running background sync on timer..."
+2023-03-24 14:04:33: "Preparing scheduled sync"
+2023-03-24 14:04:35: OneDriveApi: "Got error below - retrying (0)..."
+2023-03-24 14:04:35: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 14:04:42: OneDriveApi: "Got error below - retrying (1)..."
+2023-03-24 14:04:42: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 14:04:55: OneDriveApi: "Got error below - retrying (2)..."
+2023-03-24 14:04:55: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
+2023-03-24 14:05:12: OneDriveApi: "Got error below - retrying (3)..."
+2023-03-24 14:05:12: OneDriveApi: "Error: General exception while processing
+Code: generalException
+Error: General exception while processing
+    at OneDriveApi.oneDriveErrorResponseToError (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:125:28)
+    at OneDriveApi.<anonymous> (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:307:40)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Applications/Joplin.app/Contents/Resources/app.asar/node_modules/@joplin/lib/onedrive-api.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"
