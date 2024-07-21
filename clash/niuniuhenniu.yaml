@@ -1,5 +1,5 @@
 #---------------------------------------------------#
-## 上次更新于：2024-03-01 09:50:25
+## 上次更新于：2024-06-04 05:13:42
 #---------------------------------------------------#
 
 port: 7890
@@ -23,7 +23,7 @@ proxies:
     obfs: tls1.2_ticket_auth
     obfs-param: 2cb7528177.microsoft.com
   -
-    name: 'Base-新加坡 Gcore丨全解锁丨A1'
+    name: 'Base-新加坡 Azure丨全解锁丨A1'
     type: ssr
     server: vip.basicnode.host
     port: 11806
@@ -34,7 +34,7 @@ proxies:
     obfs: tls1.2_ticket_auth
     obfs-param: 2cb7528177.microsoft.com
   -
-    name: 'Base-新加坡 Oracle丨全解锁丨A1'
+    name: 'Base-新加坡 Linode丨全解锁丨A1'
     type: ssr
     server: vip.basicnode.host
     port: 11807
@@ -45,7 +45,7 @@ proxies:
     obfs: tls1.2_ticket_auth
     obfs-param: 2cb7528177.microsoft.com
   -
-    name: 'Base-新加坡 Oracle丨全解锁丨A2'
+    name: 'Base-新加坡 Linode丨全解锁丨A2'
     type: ssr
     server: vip.basicnode.host
     port: 11846
@@ -176,7 +176,7 @@ proxies:
     obfs: tls1.2_ticket_auth
     obfs-param: 2cb7528177.microsoft.com
   -
-    name: 'Premium-新加坡 Gcore丨全解锁丨A1'
+    name: 'Premium-新加坡 Azure丨全解锁丨A1'
     type: ssr
     server: vip3.niuniupremium.xyz
     port: 11422
@@ -187,7 +187,7 @@ proxies:
     obfs: tls1.2_ticket_auth
     obfs-param: 2cb7528177.microsoft.com
   -
-    name: 'Premium-新加坡 Gcore丨全解锁丨A2'
+    name: 'Premium-新加坡 Azure丨全解锁丨A2'
     type: ssr
     server: vip3.niuniupremium.xyz
     port: 11429
@@ -220,7 +220,7 @@ proxies:
     obfs: tls1.2_ticket_auth
     obfs-param: 2cb7528177.microsoft.com
   -
-    name: 'Premium-美国 Zenlayer丨全解锁丨A1'
+    name: 'Premium-美国 wowrack丨全解锁丨A1'
     type: ssr
     server: vip3.niuniupremium.xyz
     port: 11423
@@ -242,10 +242,10 @@ proxies:
     obfs: tls1.2_ticket_auth
     obfs-param: 2cb7528177.microsoft.com
   -
-    name: 'Premium-香港 DMIT丨全解锁丨A1'
+    name: 'Premium-香港 HKG丨全解锁丨A1'
     type: ssr
     server: vip3.niuniupremium.xyz
-    port: 11420
+    port: 11421
     cipher: chacha20-ietf
     password: Fhbe0z
     protocol: auth_aes128_sha1
@@ -253,10 +253,10 @@ proxies:
     obfs: tls1.2_ticket_auth
     obfs-param: 2cb7528177.microsoft.com
   -
-    name: 'Premium-香港 HKG丨全解锁丨A1'
+    name: 'Premium-香港 PCCWG丨全解锁丨A1'
     type: ssr
     server: vip3.niuniupremium.xyz
-    port: 11421
+    port: 11420
     cipher: chacha20-ietf
     password: Fhbe0z
     protocol: auth_aes128_sha1
@@ -275,7 +275,7 @@ proxies:
     obfs: tls1.2_ticket_auth
     obfs-param: 2cb7528177.microsoft.com
   -
-    name: 'Pro-新加坡 Oracle丨全解锁丨A3'
+    name: 'Pro-新加坡 Linode丨全解锁丨A3'
     type: ssr
     server: vip.basicnode.host
     port: 11851
@@ -297,7 +297,7 @@ proxies:
     obfs: tls1.2_ticket_auth
     obfs-param: 2cb7528177.microsoft.com
   -
-    name: 'Pro-美国 Zenlayer丨全解锁丨A2'
+    name: 'Pro-美国 wowrack丨全解锁丨A2'
     type: ssr
     server: vip.basicnode.host
     port: 35247
@@ -337,9 +337,9 @@ proxy-groups:
       - '♻️ 自动选择'
       - DIRECT
       - 'Base-俄罗斯 LLC BAXET丨半解锁丨A1'
-      - 'Base-新加坡 Gcore丨全解锁丨A1'
-      - 'Base-新加坡 Oracle丨全解锁丨A1'
-      - 'Base-新加坡 Oracle丨全解锁丨A2'
+      - 'Base-新加坡 Azure丨全解锁丨A1'
+      - 'Base-新加坡 Linode丨全解锁丨A1'
+      - 'Base-新加坡 Linode丨全解锁丨A2'
       - 'Base-日本 DMIT丨全解锁丨A3'
       - 'Base-美国 DMIT丨全解锁丨A1'
       - 'Base-美国 FDC丨全解锁丨A1'
@@ -350,18 +350,18 @@ proxy-groups:
       - 'Base-香港 HKG丨全解锁丨A3'
       - 'Premium-台湾 HiNet丨全解锁丨A1'
       - 'Premium-巴西 Gcore丨奈飞专用'
-      - 'Premium-新加坡 Gcore丨全解锁丨A1'
-      - 'Premium-新加坡 Gcore丨全解锁丨A2'
+      - 'Premium-新加坡 Azure丨全解锁丨A1'
+      - 'Premium-新加坡 Azure丨全解锁丨A2'
       - 'Premium-日本 Oracle丨全解锁丨A1'
       - 'Premium-美国 FDC丨全解锁丨A1'
-      - 'Premium-美国 Zenlayer丨全解锁丨A1'
+      - 'Premium-美国 wowrack丨全解锁丨A1'
       - 'Premium-英国 Gcore丨全解锁丨A1'
-      - 'Premium-香港 DMIT丨全解锁丨A1'
       - 'Premium-香港 HKG丨全解锁丨A1'
+      - 'Premium-香港 PCCWG丨全解锁丨A1'
       - 'Pro-台湾 HiNet丨全解锁丨A1'
-      - 'Pro-新加坡 Oracle丨全解锁丨A3'
+      - 'Pro-新加坡 Linode丨全解锁丨A3'
       - 'Pro-日本 Oracle丨全解锁丨A2'
-      - 'Pro-美国 Zenlayer丨全解锁丨A2'
+      - 'Pro-美国 wowrack丨全解锁丨A2'
       - 'Pro-香港 HKG丨全解锁丨A1'
       - 'Pro-香港 HKG丨全解锁丨A2'
   -
@@ -369,9 +369,9 @@ proxy-groups:
     type: url-test
     proxies:
       - 'Base-俄罗斯 LLC BAXET丨半解锁丨A1'
-      - 'Base-新加坡 Gcore丨全解锁丨A1'
-      - 'Base-新加坡 Oracle丨全解锁丨A1'
-      - 'Base-新加坡 Oracle丨全解锁丨A2'
+      - 'Base-新加坡 Azure丨全解锁丨A1'
+      - 'Base-新加坡 Linode丨全解锁丨A1'
+      - 'Base-新加坡 Linode丨全解锁丨A2'
       - 'Base-日本 DMIT丨全解锁丨A3'
       - 'Base-美国 DMIT丨全解锁丨A1'
       - 'Base-美国 FDC丨全解锁丨A1'
@@ -382,18 +382,18 @@ proxy-groups:
       - 'Base-香港 HKG丨全解锁丨A3'
       - 'Premium-台湾 HiNet丨全解锁丨A1'
       - 'Premium-巴西 Gcore丨奈飞专用'
-      - 'Premium-新加坡 Gcore丨全解锁丨A1'
-      - 'Premium-新加坡 Gcore丨全解锁丨A2'
+      - 'Premium-新加坡 Azure丨全解锁丨A1'
+      - 'Premium-新加坡 Azure丨全解锁丨A2'
       - 'Premium-日本 Oracle丨全解锁丨A1'
       - 'Premium-美国 FDC丨全解锁丨A1'
-      - 'Premium-美国 Zenlayer丨全解锁丨A1'
+      - 'Premium-美国 wowrack丨全解锁丨A1'
       - 'Premium-英国 Gcore丨全解锁丨A1'
-      - 'Premium-香港 DMIT丨全解锁丨A1'
       - 'Premium-香港 HKG丨全解锁丨A1'
+      - 'Premium-香港 PCCWG丨全解锁丨A1'
       - 'Pro-台湾 HiNet丨全解锁丨A1'
-      - 'Pro-新加坡 Oracle丨全解锁丨A3'
+      - 'Pro-新加坡 Linode丨全解锁丨A3'
       - 'Pro-日本 Oracle丨全解锁丨A2'
-      - 'Pro-美国 Zenlayer丨全解锁丨A2'
+      - 'Pro-美国 wowrack丨全解锁丨A2'
       - 'Pro-香港 HKG丨全解锁丨A1'
       - 'Pro-香港 HKG丨全解锁丨A2'
     url: 'http://www.gstatic.com/generate_204'
@@ -406,9 +406,9 @@ proxy-groups:
       - '♻️ 自动选择'
       - '🎯 全球直连'
       - 'Base-俄罗斯 LLC BAXET丨半解锁丨A1'
-      - 'Base-新加坡 Gcore丨全解锁丨A1'
-      - 'Base-新加坡 Oracle丨全解锁丨A1'
-      - 'Base-新加坡 Oracle丨全解锁丨A2'
+      - 'Base-新加坡 Azure丨全解锁丨A1'
+      - 'Base-新加坡 Linode丨全解锁丨A1'
+      - 'Base-新加坡 Linode丨全解锁丨A2'
       - 'Base-日本 DMIT丨全解锁丨A3'
       - 'Base-美国 DMIT丨全解锁丨A1'
       - 'Base-美国 FDC丨全解锁丨A1'
@@ -419,18 +419,18 @@ proxy-groups:
       - 'Base-香港 HKG丨全解锁丨A3'
       - 'Premium-台湾 HiNet丨全解锁丨A1'
       - 'Premium-巴西 Gcore丨奈飞专用'
-      - 'Premium-新加坡 Gcore丨全解锁丨A1'
-      - 'Premium-新加坡 Gcore丨全解锁丨A2'
+      - 'Premium-新加坡 Azure丨全解锁丨A1'
+      - 'Premium-新加坡 Azure丨全解锁丨A2'
       - 'Premium-日本 Oracle丨全解锁丨A1'
       - 'Premium-美国 FDC丨全解锁丨A1'
-      - 'Premium-美国 Zenlayer丨全解锁丨A1'
+      - 'Premium-美国 wowrack丨全解锁丨A1'
       - 'Premium-英国 Gcore丨全解锁丨A1'
-      - 'Premium-香港 DMIT丨全解锁丨A1'
       - 'Premium-香港 HKG丨全解锁丨A1'
+      - 'Premium-香港 PCCWG丨全解锁丨A1'
       - 'Pro-台湾 HiNet丨全解锁丨A1'
-      - 'Pro-新加坡 Oracle丨全解锁丨A3'
+      - 'Pro-新加坡 Linode丨全解锁丨A3'
       - 'Pro-日本 Oracle丨全解锁丨A2'
-      - 'Pro-美国 Zenlayer丨全解锁丨A2'
+      - 'Pro-美国 wowrack丨全解锁丨A2'
       - 'Pro-香港 HKG丨全解锁丨A1'
       - 'Pro-香港 HKG丨全解锁丨A2'
   -
@@ -440,9 +440,9 @@ proxy-groups:
       - '🚀 节点选择'
       - '🎯 全球直连'
       - 'Base-俄罗斯 LLC BAXET丨半解锁丨A1'
-      - 'Base-新加坡 Gcore丨全解锁丨A1'
-      - 'Base-新加坡 Oracle丨全解锁丨A1'
-      - 'Base-新加坡 Oracle丨全解锁丨A2'
+      - 'Base-新加坡 Azure丨全解锁丨A1'
+      - 'Base-新加坡 Linode丨全解锁丨A1'
+      - 'Base-新加坡 Linode丨全解锁丨A2'
       - 'Base-日本 DMIT丨全解锁丨A3'
       - 'Base-美国 DMIT丨全解锁丨A1'
       - 'Base-美国 FDC丨全解锁丨A1'
@@ -453,18 +453,18 @@ proxy-groups:
       - 'Base-香港 HKG丨全解锁丨A3'
       - 'Premium-台湾 HiNet丨全解锁丨A1'
       - 'Premium-巴西 Gcore丨奈飞专用'
-      - 'Premium-新加坡 Gcore丨全解锁丨A1'
-      - 'Premium-新加坡 Gcore丨全解锁丨A2'
+      - 'Premium-新加坡 Azure丨全解锁丨A1'
+      - 'Premium-新加坡 Azure丨全解锁丨A2'
       - 'Premium-日本 Oracle丨全解锁丨A1'
       - 'Premium-美国 FDC丨全解锁丨A1'
-      - 'Premium-美国 Zenlayer丨全解锁丨A1'
+      - 'Premium-美国 wowrack丨全解锁丨A1'
       - 'Premium-英国 Gcore丨全解锁丨A1'
-      - 'Premium-香港 DMIT丨全解锁丨A1'
       - 'Premium-香港 HKG丨全解锁丨A1'
+      - 'Premium-香港 PCCWG丨全解锁丨A1'
       - 'Pro-台湾 HiNet丨全解锁丨A1'
-      - 'Pro-新加坡 Oracle丨全解锁丨A3'
+      - 'Pro-新加坡 Linode丨全解锁丨A3'
       - 'Pro-日本 Oracle丨全解锁丨A2'
-      - 'Pro-美国 Zenlayer丨全解锁丨A2'
+      - 'Pro-美国 wowrack丨全解锁丨A2'
       - 'Pro-香港 HKG丨全解锁丨A1'
       - 'Pro-香港 HKG丨全解锁丨A2'
   -
@@ -474,9 +474,9 @@ proxy-groups:
       - '🎯 全球直连'
       - '🚀 节点选择'
       - 'Base-俄罗斯 LLC BAXET丨半解锁丨A1'
-      - 'Base-新加坡 Gcore丨全解锁丨A1'
-      - 'Base-新加坡 Oracle丨全解锁丨A1'
-      - 'Base-新加坡 Oracle丨全解锁丨A2'
+      - 'Base-新加坡 Azure丨全解锁丨A1'
+      - 'Base-新加坡 Linode丨全解锁丨A1'
+      - 'Base-新加坡 Linode丨全解锁丨A2'
       - 'Base-日本 DMIT丨全解锁丨A3'
       - 'Base-美国 DMIT丨全解锁丨A1'
       - 'Base-美国 FDC丨全解锁丨A1'
@@ -487,18 +487,18 @@ proxy-groups:
       - 'Base-香港 HKG丨全解锁丨A3'
       - 'Premium-台湾 HiNet丨全解锁丨A1'
       - 'Premium-巴西 Gcore丨奈飞专用'
-      - 'Premium-新加坡 Gcore丨全解锁丨A1'
-      - 'Premium-新加坡 Gcore丨全解锁丨A2'
+      - 'Premium-新加坡 Azure丨全解锁丨A1'
+      - 'Premium-新加坡 Azure丨全解锁丨A2'
       - 'Premium-日本 Oracle丨全解锁丨A1'
       - 'Premium-美国 FDC丨全解锁丨A1'
-      - 'Premium-美国 Zenlayer丨全解锁丨A1'
+      - 'Premium-美国 wowrack丨全解锁丨A1'
       - 'Premium-英国 Gcore丨全解锁丨A1'
-      - 'Premium-香港 DMIT丨全解锁丨A1'
       - 'Premium-香港 HKG丨全解锁丨A1'
+      - 'Premium-香港 PCCWG丨全解锁丨A1'
       - 'Pro-台湾 HiNet丨全解锁丨A1'
-      - 'Pro-新加坡 Oracle丨全解锁丨A3'
+      - 'Pro-新加坡 Linode丨全解锁丨A3'
       - 'Pro-日本 Oracle丨全解锁丨A2'
-      - 'Pro-美国 Zenlayer丨全解锁丨A2'
+      - 'Pro-美国 wowrack丨全解锁丨A2'
       - 'Pro-香港 HKG丨全解锁丨A1'
       - 'Pro-香港 HKG丨全解锁丨A2'
   -
@@ -508,9 +508,9 @@ proxy-groups:
       - '🚀 节点选择'
       - '🎯 全球直连'
       - 'Base-俄罗斯 LLC BAXET丨半解锁丨A1'
-      - 'Base-新加坡 Gcore丨全解锁丨A1'
-      - 'Base-新加坡 Oracle丨全解锁丨A1'
-      - 'Base-新加坡 Oracle丨全解锁丨A2'
+      - 'Base-新加坡 Azure丨全解锁丨A1'
+      - 'Base-新加坡 Linode丨全解锁丨A1'
+      - 'Base-新加坡 Linode丨全解锁丨A2'
       - 'Base-日本 DMIT丨全解锁丨A3'
       - 'Base-美国 DMIT丨全解锁丨A1'
       - 'Base-美国 FDC丨全解锁丨A1'
@@ -521,18 +521,18 @@ proxy-groups:
       - 'Base-香港 HKG丨全解锁丨A3'
       - 'Premium-台湾 HiNet丨全解锁丨A1'
       - 'Premium-巴西 Gcore丨奈飞专用'
-      - 'Premium-新加坡 Gcore丨全解锁丨A1'
-      - 'Premium-新加坡 Gcore丨全解锁丨A2'
+      - 'Premium-新加坡 Azure丨全解锁丨A1'
+      - 'Premium-新加坡 Azure丨全解锁丨A2'
       - 'Premium-日本 Oracle丨全解锁丨A1'
       - 'Premium-美国 FDC丨全解锁丨A1'
-      - 'Premium-美国 Zenlayer丨全解锁丨A1'
+      - 'Premium-美国 wowrack丨全解锁丨A1'
       - 'Premium-英国 Gcore丨全解锁丨A1'
-      - 'Premium-香港 DMIT丨全解锁丨A1'
       - 'Premium-香港 HKG丨全解锁丨A1'
+      - 'Premium-香港 PCCWG丨全解锁丨A1'
       - 'Pro-台湾 HiNet丨全解锁丨A1'
-      - 'Pro-新加坡 Oracle丨全解锁丨A3'
+      - 'Pro-新加坡 Linode丨全解锁丨A3'
       - 'Pro-日本 Oracle丨全解锁丨A2'
-      - 'Pro-美国 Zenlayer丨全解锁丨A2'
+      - 'Pro-美国 wowrack丨全解锁丨A2'
       - 'Pro-香港 HKG丨全解锁丨A1'
       - 'Pro-香港 HKG丨全解锁丨A2'
   -
@@ -543,9 +543,9 @@ proxy-groups:
       - '🎯 全球直连'
       - '♻️ 自动选择'
       - 'Base-俄罗斯 LLC BAXET丨半解锁丨A1'
-      - 'Base-新加坡 Gcore丨全解锁丨A1'
-      - 'Base-新加坡 Oracle丨全解锁丨A1'
-      - 'Base-新加坡 Oracle丨全解锁丨A2'
+      - 'Base-新加坡 Azure丨全解锁丨A1'
+      - 'Base-新加坡 Linode丨全解锁丨A1'
+      - 'Base-新加坡 Linode丨全解锁丨A2'
       - 'Base-日本 DMIT丨全解锁丨A3'
       - 'Base-美国 DMIT丨全解锁丨A1'
       - 'Base-美国 FDC丨全解锁丨A1'
@@ -556,18 +556,18 @@ proxy-groups:
       - 'Base-香港 HKG丨全解锁丨A3'
       - 'Premium-台湾 HiNet丨全解锁丨A1'
       - 'Premium-巴西 Gcore丨奈飞专用'
-      - 'Premium-新加坡 Gcore丨全解锁丨A1'
-      - 'Premium-新加坡 Gcore丨全解锁丨A2'
+      - 'Premium-新加坡 Azure丨全解锁丨A1'
+      - 'Premium-新加坡 Azure丨全解锁丨A2'
       - 'Premium-日本 Oracle丨全解锁丨A1'
       - 'Premium-美国 FDC丨全解锁丨A1'
-      - 'Premium-美国 Zenlayer丨全解锁丨A1'
+      - 'Premium-美国 wowrack丨全解锁丨A1'
       - 'Premium-英国 Gcore丨全解锁丨A1'
-      - 'Premium-香港 DMIT丨全解锁丨A1'
       - 'Premium-香港 HKG丨全解锁丨A1'
+      - 'Premium-香港 PCCWG丨全解锁丨A1'
       - 'Pro-台湾 HiNet丨全解锁丨A1'
-      - 'Pro-新加坡 Oracle丨全解锁丨A3'
+      - 'Pro-新加坡 Linode丨全解锁丨A3'
       - 'Pro-日本 Oracle丨全解锁丨A2'
-      - 'Pro-美国 Zenlayer丨全解锁丨A2'
+      - 'Pro-美国 wowrack丨全解锁丨A2'
       - 'Pro-香港 HKG丨全解锁丨A1'
       - 'Pro-香港 HKG丨全解锁丨A2'
   -
@@ -597,9 +597,9 @@ proxy-groups:
       - '🎯 全球直连'
       - '♻️ 自动选择'
       - 'Base-俄罗斯 LLC BAXET丨半解锁丨A1'
-      - 'Base-新加坡 Gcore丨全解锁丨A1'
-      - 'Base-新加坡 Oracle丨全解锁丨A1'
-      - 'Base-新加坡 Oracle丨全解锁丨A2'
+      - 'Base-新加坡 Azure丨全解锁丨A1'
+      - 'Base-新加坡 Linode丨全解锁丨A1'
+      - 'Base-新加坡 Linode丨全解锁丨A2'
       - 'Base-日本 DMIT丨全解锁丨A3'
       - 'Base-美国 DMIT丨全解锁丨A1'
       - 'Base-美国 FDC丨全解锁丨A1'
@@ -610,18 +610,18 @@ proxy-groups:
       - 'Base-香港 HKG丨全解锁丨A3'
       - 'Premium-台湾 HiNet丨全解锁丨A1'
       - 'Premium-巴西 Gcore丨奈飞专用'
-      - 'Premium-新加坡 Gcore丨全解锁丨A1'
-      - 'Premium-新加坡 Gcore丨全解锁丨A2'
+      - 'Premium-新加坡 Azure丨全解锁丨A1'
+      - 'Premium-新加坡 Azure丨全解锁丨A2'
       - 'Premium-日本 Oracle丨全解锁丨A1'
       - 'Premium-美国 FDC丨全解锁丨A1'
-      - 'Premium-美国 Zenlayer丨全解锁丨A1'
+      - 'Premium-美国 wowrack丨全解锁丨A1'
       - 'Premium-英国 Gcore丨全解锁丨A1'
-      - 'Premium-香港 DMIT丨全解锁丨A1'
       - 'Premium-香港 HKG丨全解锁丨A1'
+      - 'Premium-香港 PCCWG丨全解锁丨A1'
       - 'Pro-台湾 HiNet丨全解锁丨A1'
-      - 'Pro-新加坡 Oracle丨全解锁丨A3'
+      - 'Pro-新加坡 Linode丨全解锁丨A3'
       - 'Pro-日本 Oracle丨全解锁丨A2'
-      - 'Pro-美国 Zenlayer丨全解锁丨A2'
+      - 'Pro-美国 wowrack丨全解锁丨A2'
       - 'Pro-香港 HKG丨全解锁丨A1'
       - 'Pro-香港 HKG丨全解锁丨A2'
 
